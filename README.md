@@ -1,51 +1,63 @@
-📊 Power BI Sales Dashboard
+📊 Super Store Sales Dashboard | Power BI
 
 📌 Project Overview
 
-This project is developed using Microsoft Power BI to analyze sales and profit performance. The dashboard presents business data through interactive visualizations, making it easier to understand trends and compare performance across different months and years.
+This project analyzes Super Store sales data using Microsoft Power BI. The dashboard provides insights into sales, profit, quantity, delivery time, and business performance.
 
 🎯 Project Objectives
 
-- Analyze monthly sales performance.
-- Compare sales across different years.
-- Understand monthly profit trends.
-- Identify high-performing and low-performing months.
-- Support better business decision-making through data visualization.
+- Analyze total sales and profit.
+- Compare monthly sales and profit trends.
+- Understand sales across customer segments and regions.
+- Identify top-performing product categories and sub-categories.
+- Analyze payment methods and shipping modes.
 
-🛠️ Tools and Technologies
+📈 Key Performance Indicators (KPIs)
+
+- Total Sales: 1.57M
+- Total Quantity: 22K
+- Total Profit: 175.26K
+- Average Delivery Time: 4 days
+
+Note: KPI values are based on the dashboard and should be verified against the final report.
+
+🛠️ Tools & Technologies
 
 - Microsoft Power BI Desktop
 - Data Visualization
 - Business Data Analysis
+- Interactive Charts and Filters
 
-📈 Dashboard Features
+📊 Dashboard Features
 
-- Monthly Sales Analysis: Visualizes sales trends by month.
-- Monthly Profit Analysis: Displays monthly profit performance.
-- Year-over-Year Comparison: Compares performance between years.
-- Interactive Visualizations: Helps users explore and understand business data.
-- Treemap Visualization: Compares categories or groups based on sales or profit values.
+- Sales by Customer Segment
+- Monthly Sales Trend
+- Monthly Profit Trend
+- Sales by Shipping Mode
+- Profit and Sales by State
+- Sales by Category and Sub-Category
+- Sales by Payment Method
 
-📂 Project Files
+🗂️ Project Files
 
-- "Sales_Dashboard.pbix" — Power BI dashboard project file.
-- "dashboard.png" — Screenshot of the completed dashboard.
-
-Note: Replace these filenames with your actual uploaded filenames.
+- "sales_dashboard.pbix" — Power BI dashboard file.
+- "super_stone_sales.png" — Dashboard screenshot.
+- "SuperStore_Sales_Dataset.csv" — Sales dataset in CSV format.
+- "SuperStore Sales DataSet.xlsx" — Sales dataset in Excel format.
 
 🚀 How to Use
 
-1. Download the ".pbix" file from this repository.
+1. Download "sales_dashboard.pbix" from this repository.
 2. Install Microsoft Power BI Desktop.
 3. Open the ".pbix" file in Power BI Desktop.
-4. Explore the dashboard and interact with the available visuals and filters.
+4. Explore the dashboard and interactive filters.
 
 💡 Key Learnings
 
-- Creating dashboards in Power BI.
-- Visualizing sales and profit data.
-- Comparing monthly and yearly performance.
-- Presenting business information through charts and graphs.
+- Creating interactive Power BI dashboards.
+- Analyzing sales and profit KPIs.
+- Visualizing monthly and yearly trends.
+- Communicating business insights using charts.
 
 👨‍💻 Author
 
